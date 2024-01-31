@@ -7,7 +7,7 @@ Benvinguts al meu repositori de programes Python
 
 # Activitat Bateria 1
 - [Bateria 1.1](Bateria11.py)
-- [Bateria 1.2](Bateria1 2.py)
+- [Bateria 1.2](Bateria12.py)
 - []()
 - []()
 - []()
