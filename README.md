@@ -19,3 +19,8 @@ Benvinguts al meu repositori de programes Python
 - [Bateria 2.4](Bateria24.py)
 - [Bateria 2.5](Bateria25.py)
 ## Activitat Bateria 3
+- []()
+- []()
+- []()
+- []()
+- []()
