@@ -6,7 +6,6 @@ Benvinguts al meu repositori de programes Python
 - [Hello World](Hello_world.py)
 
 # Activitat Bateria 
-## Activitat Bateria 1
 - [Activitat bateria](bateria.md)
 - [Bateria 1.1](Bateria11.py)
 - [Bateria 1.2](Bateria12.py)
