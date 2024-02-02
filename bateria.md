@@ -12,8 +12,8 @@
 - [Bateria 2.4](Bateria24.py)
 - [Bateria 2.5](Bateria25.py)
 ## Bateria 3 
-- []()
-- []()
-- []()
-- []()
-- []() 
+- [Bateria 3.1](bateria31.py)
+- [Bateria 3.2](bateria32.py)
+- [Bateria 3.3](bateria33.py)
+- [Bateria 3.4](bateria34.py)
+- [Bateria 3.5](bateria35.py) 
