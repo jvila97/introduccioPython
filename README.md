@@ -25,6 +25,3 @@ Benvinguts al meu repositori de programes Python
 
 
 
-
-
-## *Altres llenguatjes*
