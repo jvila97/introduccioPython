@@ -9,5 +9,5 @@ Benvinguts al meu repositori de programes Python
 - [Activitat bateria](bateria.md)
 
 # Activitat Array
-- [Activitat array](array.md)
+- [Activitat array](array.py)
 
