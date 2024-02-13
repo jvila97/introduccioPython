@@ -8,3 +8,6 @@ Benvinguts al meu repositori de programes Python
 # Activitat Bateria 
 - [Activitat bateria](bateria.md)
 
+# Activitat Array
+- [Activitat array](array.md)
+
