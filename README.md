@@ -12,3 +12,19 @@ Benvinguts al meu repositori de programes Python
 # Activitat Array
 - [Activitat array](array.py)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## *Altres llenguatjes*
