@@ -5,6 +5,7 @@ Benvinguts al meu repositori de programes Python
 # Programes en Python: 
 
 - [Hello World](Hello_world.py)
+- [Numeros Aleatoris](modnarCP.py)
 
 # Activitat Bateria 
 - [Activitat bateria](bateria.md)
