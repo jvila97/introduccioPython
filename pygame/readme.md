@@ -7,3 +7,5 @@ A aquesta carpeta es ficaran a tots els elements nesesaris per fer el joc.
 ![Nau Protagonista](pixil-frame-0.png)
 ## Fons de gameplay
 ![Fons de pantalla](gameplay.png)
+## Fons d'entrada
+![Fons d'entrada](opening.png)
