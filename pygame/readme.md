@@ -10,4 +10,4 @@ A aquesta carpeta es ficaran a tots els elements nesesaris per fer el joc.
 ## Fons de gameplay
 ![Fons de pantalla](gameplay.png)
 ## Fons d'entrada
-![Fons d'entrada](Opening.png)
+![Fons d'entrada](opening.png)
