@@ -12,7 +12,8 @@ Benvinguts al meu repositori de programes Python
 
 # Activitat Array
 - [Activitat array](array.py)
-
+# Activitat Pygame Finestres
+- [Activitat Finestres](finestres.md)
 
 
 
