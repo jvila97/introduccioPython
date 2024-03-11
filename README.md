@@ -16,7 +16,7 @@ Benvinguts al meu repositori de programes Python
 - [Activitat Finestres](finestres.md)
 
 ## Activitat Colors
--[Activitat Colors](colors.py)
+- [Activitat Colors](colors.py)
 
 
 
