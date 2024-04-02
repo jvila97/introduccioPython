@@ -6,7 +6,7 @@ A aquesta carpeta es ficaran a tots els elements nesesaris per fer el joc.
 ## Nau Protagonista
 ![Nau Protagonista](Nau.png)
 ## I need more bullets
-![Bales](Bullet.png)
+![Bales](bullet.png)
 ## Fons de gameplay
 ![Fons de pantalla](gameplay.png)
 ## Fons d'entrada
