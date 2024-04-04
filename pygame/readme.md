@@ -3,10 +3,12 @@
 A aquesta carpeta es ficaran a tots els elements nesesaris per fer el joc.
 
 # Sprites
-## Nau Protagonista
+## Nau Protagonista + Nau Enemiga
 ![Nau Protagonista](Nau.png)
+!(Nau enemiga)[Nau2.png]
 ## I need more bullets
 ![Bales](bullet.png)
+!(Bala 2)[bullet2.png]
 ## Fons de gameplay
 ![Fons de pantalla](gameplay.png)
 ## Fons d'entrada
