@@ -12,6 +12,6 @@ A aquesta carpeta es ficaran a tots els elements nesesaris per fer el joc.
 ## Fons de gameplay
 ![Fons de pantalla](gameplay.png)
 ## Fons d'entrada
-![Fons d'entrada](opening.png)
+![Fons d'entrada](pixiñ-frame-0.png)
 ## Enemy
-![Nau enemiga](pixil-frame-1.png)
+![Nau enemiga](pixil-frame-0.png)
