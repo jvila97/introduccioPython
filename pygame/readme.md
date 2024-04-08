@@ -10,8 +10,8 @@ A aquesta carpeta es ficaran a tots els elements nesesaris per fer el joc.
 ![Bales](bullet.png)
 ![Bala 2](bullet2.png)
 ## Fons de gameplay
-![Fons de pantalla](gameplay.png)
+![Fons de pantalla](pixil-frame-0.png)
 ## Fons d'entrada
-![Fons d'entrada](pixiñ-frame-0.png)
+![Fons d'entrada](pixil-frame-0.png)
 ## Enemy
 ![Nau enemiga](pixil-frame-0.png)
